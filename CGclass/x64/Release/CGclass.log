@@ -1,0 +1,21 @@
+﻿  main.cpp
+h:\opengl2018\cgassignment\cgclass\shader.h(52): warning C4101: “infoLog”: 未引用的局部变量
+h:\opengl2018\cgassignment\cgclass\shader.h(51): warning C4101: “success”: 未引用的局部变量
+h:\opengl2018\cgassignment\cgclass\shader.h(121): warning C4101: “infoLog”: 未引用的局部变量
+h:\opengl2018\cgassignment\cgclass\shader.h(120): warning C4101: “success”: 未引用的局部变量
+h:\opengl2018\cgassignment\cgclass\pencilrenderer.h(34): warning C4305: “初始化”: 从“double”到“float”截断
+h:\opengl2018\cgassignment\cgclass\pencilrenderer.h(35): warning C4305: “初始化”: 从“double”到“float”截断
+h:\opengl2018\cgassignment\cgclass\mymesh.h(112): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+h:\opengl2018\cgassignment\cgclass\mymesh.h(155): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+h:\opengl2018\cgassignment\cgclass\mymesh.h(165): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+h:\opengl2018\cgassignment\cgclass\myimporter.h(81): warning C4267: “参数”: 从“size_t”转换到“GLuint”，可能丢失数据
+h:\opengl2018\cgassignment\cgclass\myimporter.h(83): warning C4267: “参数”: 从“size_t”转换到“GLuint”，可能丢失数据
+h:\opengl2018\cgassignment\cgclass\myimporter.h(85): warning C4267: “参数”: 从“size_t”转换到“GLuint”，可能丢失数据
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  2 of 2858 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“glew32s.lib(glew.obj)”或在“H:\OpenGL2018\CGassignment\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  CGclass.vcxproj -> H:\OpenGL2018\CGassignment\x64\Release\CGclass.exe
